@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.h{
+    position: relative;
+
+}
+.c{
+    position: absolute;
+    bottom : 4px;
+    background-color: rgba(51, 51, 53, 0.564);
+    width: 200px;
+}
+
+i{
+    color: white;
+    background-color: rgb(236, 191, 27);
+    border-radius: 100%;
+}
+.h1{
+    margin: 50px;
+    padding: 10px;
+    width: 350px;
+    border: 1px solid  rgb(151, 149, 168);
+
+}
